@@ -15,7 +15,7 @@ CONFIG += ordered
 
 unix:!macx {
 SUBDIRS  = \
-../../thumbnailer-kde4 \
+#../../thumbnailer-kde4 \
 ../../libembroidery-convert \
 ../../embroidermodder2 \
 
